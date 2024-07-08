@@ -30,9 +30,7 @@ For support or any inquiries, visit our [Support](https://intrends.me/support) p
 ## Useful Links
 
 - [InTrends Website](https://intrends.me)
-- [Pricing Plans](https://intrends.me/pricing)
 - [Blog](https://intrends.me/blog)
-- [API Documentation](https://intrends.me/api)
 
 ---
 
